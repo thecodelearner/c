@@ -1,0 +1,17 @@
+int version_info();
+
+int version_info()
+{
+	char cred[100]="FUTURE VALUE OF A SERIES OF MONTHLY DEPOSITS";
+	printf("%s\n", cred);
+	printf("Copyright © 2016 Sahil Sanghavi @ CodeLearner Labs Inc.\n");
+	printf("Version 3.7\n");
+	return 0;
+}
+
+
+
+	printf("--------------------------------------------------------------------\n");
+	printf("\tINTEREST RATE	|		FUTURE VALUE\n");
+	printf("\t		|	          (Rupees)\n");
+	printf("--------------------------------------------------------------------\n\n");

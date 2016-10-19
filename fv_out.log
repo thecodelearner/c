@@ -1,0 +1,304 @@
+ ________________________________________
+/ A classic is something that everyone   \
+| wants to have read and nobody wants to |
+| read.                                  |
+|                                        |
+| -- Mark Twain, "The Disappearance of   |
+\ Literature"                            /
+ ----------------------------------------
+   \
+    \
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
+
+codelearner@codelearner-MacBook-Air ~ $ c
+codelearner@codelearner-MacBook-Air ~/Desktop/C/FV $ ./main3
+
+FUTURE VALUE OF A SERIES OF MONTHLY DEPOSITS
+
+Amount of each monthly payment: Rs. 100
+Number of years: 3
+FREQUENCY OF COMPOUNDING INTEREST (A, S, Q, M, D, C): m
+
+MONTHLY COMPOUNDING SHIT
+----------------------------------------------------------
+	INTEREST RATE	|		FUTURE VALUE
+			|	          (Rupees)
+----------------------------------------------------------
+
+	 1		|		4178.18
+	 2		|		4878.78
+	 3		|		5730.14
+	 4		|		6767.36
+	 5		|		8033.90
+	 6		|		9583.63
+	 7		|		11483.23
+	 8		|		13815.29
+	 9		|		16682.05
+	10		|		20210.02
+	11		|		24555.72
+	12		|		29912.68
+	13		|		36520.05
+	14		|		44673.22
+	15		|		54736.79
+	16		|		67160.53
+	17		|		82498.82
+	18		|		101434.57
+	19		|		124808.29
+	20		|		153653.73
+
+
+Proudly developed by CodeLearnerLabs Inc.
+Copyright © 2016 Sahil Sanghavi @ CodeLearner Labs Inc.
+Exiting program...
+
+
+codelearner@codelearner-MacBook-Air ~/Desktop/C/FV $ ./main1
+
+FUTURE VALUE OF A SERIES OF MONTHLY DEPOSITS
+
+Amount of each monthly payment: Rs. 100
+Number of years: 3
+FREQUENCY OF COMPOUNDING INTEREST (A, S, Q, M, D, C): m
+
+MONTHLY COMPOUNDING SHIT
+----------------------------------------------------------
+	INTEREST RATE	|		FUTURE VALUE
+			|	          (Rupees)
+----------------------------------------------------------
+
+	 1		|		4178.18
+	 2		|		4878.78
+	 3		|		5730.14
+	 4		|		6767.36
+	 5		|		8033.90
+	 6		|		9583.63
+	 7		|		11483.23
+	 8		|		13815.29
+	 9		|		16682.05
+	10		|		20210.02
+	11		|		24555.72
+	12		|		29912.68
+	13		|		36520.05
+	14		|		44673.22
+	15		|		54736.79
+	16		|		67160.53
+	17		|		82498.82
+	18		|		101434.57
+	19		|		124808.29
+	20		|		153653.73
+
+
+Proudly developed by Sahil Sanghavi@CodeLearner Inc.©
+*Program logic by Torna Lunkad
+Exiting program...
+
+
+codelearner@codelearner-MacBook-Air ~/Desktop/C/FV $ ./main
+
+UFTURE VALUE OF A SERIES OF MONTHLY DEPOSITS
+
+Amount of each monthly payment: Rs. 100
+Number of years: 3
+FREQUENCY OF COMPOUNDING INTEREST (A, S, Q, M, D, C): a
+
+ANNUAL COMPOUNDING SHIT
+----------------------------------------------------------
+	INTEREST RATE	|		FUTURE VALUE
+			|	          (Rupees)
+----------------------------------------------------------
+
+	 1		|		3972.00
+	 2		|		4368.00
+	 3		|		4788.00
+	 4		|		5232.00
+	 5		|		5700.00
+	 6		|		6192.00
+	 7		|		6708.00
+	 8		|		7248.00
+	 9		|		7812.00
+	10		|		8400.00
+	11		|		9012.00
+	12		|		9648.00
+	13		|		10308.00
+	14		|		10992.00
+	15		|		11700.00
+	16		|		12432.00
+	17		|		13188.00
+	18		|		13968.00
+	19		|		14772.00
+	20		|		15600.00
+
+
+Proudly developed by Sahil Sanghavi©
+Program logic by Torna Lunkad
+
+
+codelearner@codelearner-MacBook-Air ~/Desktop/C/FV $ ./main
+
+UFTURE VALUE OF A SERIES OF MONTHLY DEPOSITS
+
+Amount of each monthly payment: Rs. 100
+Number of years: 3
+FREQUENCY OF COMPOUNDING INTEREST (A, S, Q, M, D, C): s
+
+SEMI-ANNUAL COMPOUNDING SHIT
+----------------------------------------------------------
+	INTEREST RATE	|		FUTURE VALUE
+			|	          (Rupees)
+----------------------------------------------------------
+
+	 1		|		4081.15
+	 2		|		4629.37
+	 3		|		5252.24
+	 4		|		5957.95
+	 5		|		6755.27
+	 6		|		7653.62
+	 7		|		8663.05
+	 8		|		9794.30
+	 9		|		11058.82
+	10		|		12468.75
+	11		|		14036.99
+	12		|		15777.22
+	13		|		17703.86
+	14		|		19832.20
+	15		|		22178.32
+	16		|		24759.17
+	17		|		27592.57
+	18		|		30697.25
+	19		|		34092.87
+	20		|		37800.00
+
+
+Proudly developed by Sahil Sanghavi©
+Program logic by Torna Lunkad
+
+
+codelearner@codelearner-MacBook-Air ~/Desktop/C/FV $ /
+bash: /: Is a directory
+codelearner@codelearner-MacBook-Air ~/Desktop/C/FV $ ./main
+
+UFTURE VALUE OF A SERIES OF MONTHLY DEPOSITS
+
+Amount of each monthly payment: Rs. 100
+Number of years: 3
+FREQUENCY OF COMPOUNDING INTEREST (A, S, Q, M, D, C): q
+
+QUARTERLY COMPOUNDING SHIT
+----------------------------------------------------------
+	INTEREST RATE	|		FUTURE VALUE
+			|	          (Rupees)
+----------------------------------------------------------
+
+	 1		|		4138.67
+	 2		|		4775.14
+	 3		|		5527.12
+	 4		|		6415.29
+	 5		|		7463.74
+	 6		|		8700.50
+	 7		|		10158.09
+	 8		|		11874.15
+	 9		|		13892.17
+	10		|		16262.30
+	11		|		19042.20
+	12		|		22298.09
+	13		|		26105.83
+	14		|		30552.17
+	15		|		35736.11
+	16		|		41770.43
+	17		|		48783.35
+	18		|		56920.37
+	19		|		66346.38
+	20		|		77247.80
+
+
+Proudly developed by Sahil Sanghavi©
+Program logic by Torna Lunkad
+
+
+codelearner@codelearner-MacBook-Air ~/Desktop/C/FV $ ./main
+
+UFTURE VALUE OF A SERIES OF MONTHLY DEPOSITS
+
+Amount of each monthly payment: Rs. 100
+Number of years: 3
+FREQUENCY OF COMPOUNDING INTEREST (A, S, Q, M, D, C): d
+
+DAILY COMPOUNDING SHIT
+----------------------------------------------------------
+	INTEREST RATE	|		FUTURE VALUE
+			|	          (Rupees)
+----------------------------------------------------------
+
+	 1		|		4180.75
+	 2		|		4891.28
+	 3		|		5764.53
+	 4		|		6842.33
+	 5		|		8178.01
+	 6		|		9839.65
+	 7		|		11914.25
+	 8		|		14513.30
+	 9		|		17779.76
+	10		|		21897.33
+	11		|		27102.33
+	12		|		33699.16
+	13		|		42080.47
+	14		|		52753.30
+	15		|		66373.11
+	16		|		83788.19
+	17		|		106097.41
+	18		|		134725.65
+	19		|		171522.11
+	20		|		218888.76
+
+
+Proudly developed by Sahil Sanghavi©
+Program logic by Torna Lunkad
+
+
+codelearner@codelearner-MacBook-Air ~/Desktop/C/FV $ ./main
+
+UFTURE VALUE OF A SERIES OF MONTHLY DEPOSITS
+
+Amount of each monthly payment: Rs. 100
+Number of years: 3 
+FREQUENCY OF COMPOUNDING INTEREST (A, S, Q, M, D, C): c
+
+CONTINUOUS COMPOUNDING SHIT
+----------------------------------------------------------
+	INTEREST RATE	|		FUTURE VALUE
+			|	          (Rupees)
+----------------------------------------------------------
+
+	 1		|		4180.84
+	 2		|		4891.72
+	 3		|		5765.74
+	 4		|		6844.99
+	 5		|		8183.18
+	 6		|		9848.92
+	 7		|		11930.04
+	 8		|		14539.17
+	 9		|		17821.00
+	10		|		21961.62
+	11		|		27200.83
+	12		|		33847.98
+	13		|		42302.75
+	14		|		53082.10
+	15		|		66855.55
+	16		|		84491.15
+	17		|		107115.58
+	18		|		136192.69
+	19		|		173626.26
+	20		|		221894.51
+
+
+Proudly developed by Sahil Sanghavi©
+Program logic by Torna Lunkad
+
+
+codelearner@codelearner-MacBook-Air ~/Desktop/C/FV $ 
